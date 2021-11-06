@@ -691,9 +691,9 @@ banner
 
 #bg-video {
     min-width: 100%;
-    min-height: 100vh;
-    max-width: 100%;
-    max-height: 100vh;
+    min-height: 55vh;
+    max-width: 10%;
+    max-height: 10vh;
     object-fit: cover;
     z-index: -1;
 }
@@ -1112,8 +1112,8 @@ section.our-courses {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 140px;
-  padding-bottom: 130px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .our-courses .item .down-content {
